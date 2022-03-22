@@ -1,0 +1,9 @@
+Y,
+delta_mavg_window,
+mavg,
+mini_std,
+delta_amplitude,
+slope,
+is_group,
+delta_E[Y],
+v(Y)

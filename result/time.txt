@@ -1,0 +1,7 @@
+imput is for all the same (except the algorithm):
+	--input 1000 5 100 *algo* manual_select
+
+decision_trees:	0:05:16:446457
+knn:		
+naive_bayes:
+mlp_classifier:

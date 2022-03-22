@@ -1,0 +1,7 @@
+Y,
+delta_mavg_window,
+mavg,
+slope,
+is_group,
+delta_E[Y],
+v(Y)
